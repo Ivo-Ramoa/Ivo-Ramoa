@@ -1,12 +1,13 @@
 # Ivo Ramoa
 
-Computer Engineering graduate focused on **Artificial Intelligence, Machine Learning, Data Science and Software Engineering**.
+Computer Engineering graduate currently pursuing a Master's degree in Computer Engineering, with a focus on Artificial Intelligence, Machine Learning and Data-driven Software Systems.
 
 ## About Me
 
-🎓 Computer Engineering graduate from IPVC  
-🤖 Focused on Artificial Intelligence, Machine Learning and Data Science  
-💻 Building projects in Computer Vision, ML pipelines, AI Agents and Data Analysis  
+🎓 Bachelor's degree in Computer Engineering from IPVC  
+📚 Currently pursuing a Master's degree in Computer Engineering  
+🤖 Interested in AI agents, machine learning systems and applied data science  
+🧠 Working with multi-agent systems, ML experimentation, model evaluation and data analysis  
 🚀 Looking for opportunities in Software Engineering, Data and AI/ML
 
 ## Tech Stack
